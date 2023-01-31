@@ -6,7 +6,7 @@
 
 ### [Timelapse]
 
-https://www.youtube.com/QtTOQGb3NDs
+https://youtu.be/QtTOQGb3NDs
 
 ### [Figma Model](https://www.figma.com/community/file/1200070743637495660)
 
