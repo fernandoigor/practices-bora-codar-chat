@@ -10,7 +10,7 @@ https://www.youtube.com/QtTOQGb3NDs
 
 ### [Figma Model](https://www.figma.com/community/file/1200070743637495660)
 
-#### Tecnologias
+## Tecnologias
 
 - React
 - Typescript
